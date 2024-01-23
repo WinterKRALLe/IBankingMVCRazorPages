@@ -1,0 +1,270 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/winter/RiderProjects/Bankovnictvi/Bankovnictvi.Web/Bankovnictvi.Web.csproj": {}
+  },
+  "projects": {
+    "/home/winter/RiderProjects/Bankovnictvi/Bankovnictvi.Application/Bankovnictvi.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/winter/RiderProjects/Bankovnictvi/Bankovnictvi.Application/Bankovnictvi.Application.csproj",
+        "projectName": "Bankovnictvi.Application",
+        "projectPath": "/home/winter/RiderProjects/Bankovnictvi/Bankovnictvi.Application/Bankovnictvi.Application.csproj",
+        "packagesPath": "/home/winter/.nuget/packages/",
+        "outputPath": "/home/winter/RiderProjects/Bankovnictvi/Bankovnictvi.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/winter/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/winter/RiderProjects/Bankovnictvi/Bankovnictvi.Domain/Bankovnictvi.Domain.csproj": {
+                "projectPath": "/home/winter/RiderProjects/Bankovnictvi/Bankovnictvi.Domain/Bankovnictvi.Domain.csproj"
+              },
+              "/home/winter/RiderProjects/Bankovnictvi/Bankovnictvi.Infrastructure/Bankovnictvi.Infrastructure.csproj": {
+                "projectPath": "/home/winter/RiderProjects/Bankovnictvi/Bankovnictvi.Infrastructure/Bankovnictvi.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/winter/RiderProjects/Bankovnictvi/Bankovnictvi.Domain/Bankovnictvi.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/winter/RiderProjects/Bankovnictvi/Bankovnictvi.Domain/Bankovnictvi.Domain.csproj",
+        "projectName": "Bankovnictvi.Domain",
+        "projectPath": "/home/winter/RiderProjects/Bankovnictvi/Bankovnictvi.Domain/Bankovnictvi.Domain.csproj",
+        "packagesPath": "/home/winter/.nuget/packages/",
+        "outputPath": "/home/winter/RiderProjects/Bankovnictvi/Bankovnictvi.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/winter/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/winter/RiderProjects/Bankovnictvi/Bankovnictvi.Infrastructure/Bankovnictvi.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/winter/RiderProjects/Bankovnictvi/Bankovnictvi.Infrastructure/Bankovnictvi.Infrastructure.csproj",
+        "projectName": "Bankovnictvi.Infrastructure",
+        "projectPath": "/home/winter/RiderProjects/Bankovnictvi/Bankovnictvi.Infrastructure/Bankovnictvi.Infrastructure.csproj",
+        "packagesPath": "/home/winter/.nuget/packages/",
+        "outputPath": "/home/winter/RiderProjects/Bankovnictvi/Bankovnictvi.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/winter/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/winter/RiderProjects/Bankovnictvi/Bankovnictvi.Domain/Bankovnictvi.Domain.csproj": {
+                "projectPath": "/home/winter/RiderProjects/Bankovnictvi/Bankovnictvi.Domain/Bankovnictvi.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/winter/RiderProjects/Bankovnictvi/Bankovnictvi.Web/Bankovnictvi.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/winter/RiderProjects/Bankovnictvi/Bankovnictvi.Web/Bankovnictvi.Web.csproj",
+        "projectName": "Bankovnictvi.Web",
+        "projectPath": "/home/winter/RiderProjects/Bankovnictvi/Bankovnictvi.Web/Bankovnictvi.Web.csproj",
+        "packagesPath": "/home/winter/.nuget/packages/",
+        "outputPath": "/home/winter/RiderProjects/Bankovnictvi/Bankovnictvi.Web/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/winter/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/winter/RiderProjects/Bankovnictvi/Bankovnictvi.Application/Bankovnictvi.Application.csproj": {
+                "projectPath": "/home/winter/RiderProjects/Bankovnictvi/Bankovnictvi.Application/Bankovnictvi.Application.csproj"
+              },
+              "/home/winter/RiderProjects/Bankovnictvi/Bankovnictvi.Domain/Bankovnictvi.Domain.csproj": {
+                "projectPath": "/home/winter/RiderProjects/Bankovnictvi/Bankovnictvi.Domain/Bankovnictvi.Domain.csproj"
+              },
+              "/home/winter/RiderProjects/Bankovnictvi/Bankovnictvi.Infrastructure/Bankovnictvi.Infrastructure.csproj": {
+                "projectPath": "/home/winter/RiderProjects/Bankovnictvi/Bankovnictvi.Infrastructure/Bankovnictvi.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

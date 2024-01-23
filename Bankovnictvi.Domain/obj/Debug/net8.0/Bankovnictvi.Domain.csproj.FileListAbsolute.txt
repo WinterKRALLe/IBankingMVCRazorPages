@@ -1,0 +1,16 @@
+/home/winter/RiderProjects/Bankovnictvi/Bankovnictvi.Domain/bin/Debug/net8.0/Bankovnictvi.Domain.deps.json
+/home/winter/RiderProjects/Bankovnictvi/Bankovnictvi.Domain/bin/Debug/net8.0/Bankovnictvi.Domain.dll
+/home/winter/RiderProjects/Bankovnictvi/Bankovnictvi.Domain/bin/Debug/net8.0/Bankovnictvi.Domain.pdb
+/home/winter/RiderProjects/Bankovnictvi/Bankovnictvi.Domain/bin/Debug/net8.0/Microsoft.Extensions.Identity.Stores.dll
+/home/winter/RiderProjects/Bankovnictvi/Bankovnictvi.Domain/bin/Debug/net8.0/Microsoft.Extensions.Identity.Stores.xml
+/home/winter/RiderProjects/Bankovnictvi/Bankovnictvi.Domain/obj/Debug/net8.0/Bankovnictvi.Domain.csproj.AssemblyReference.cache
+/home/winter/RiderProjects/Bankovnictvi/Bankovnictvi.Domain/obj/Debug/net8.0/Bankovnictvi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/winter/RiderProjects/Bankovnictvi/Bankovnictvi.Domain/obj/Debug/net8.0/Bankovnictvi.Domain.AssemblyInfoInputs.cache
+/home/winter/RiderProjects/Bankovnictvi/Bankovnictvi.Domain/obj/Debug/net8.0/Bankovnictvi.Domain.AssemblyInfo.cs
+/home/winter/RiderProjects/Bankovnictvi/Bankovnictvi.Domain/obj/Debug/net8.0/Bankovnictvi.Domain.csproj.CoreCompileInputs.cache
+/home/winter/RiderProjects/Bankovnictvi/Bankovnictvi.Domain/obj/Debug/net8.0/Bankovnictvi.Domain.sourcelink.json
+/home/winter/RiderProjects/Bankovnictvi/Bankovnictvi.Domain/obj/Debug/net8.0/Bankovnictvi.Domain.csproj.CopyComplete
+/home/winter/RiderProjects/Bankovnictvi/Bankovnictvi.Domain/obj/Debug/net8.0/Bankovnictvi.Domain.dll
+/home/winter/RiderProjects/Bankovnictvi/Bankovnictvi.Domain/obj/Debug/net8.0/refint/Bankovnictvi.Domain.dll
+/home/winter/RiderProjects/Bankovnictvi/Bankovnictvi.Domain/obj/Debug/net8.0/Bankovnictvi.Domain.pdb
+/home/winter/RiderProjects/Bankovnictvi/Bankovnictvi.Domain/obj/Debug/net8.0/ref/Bankovnictvi.Domain.dll

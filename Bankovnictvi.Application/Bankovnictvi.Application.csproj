@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\Bankovnictvi.Domain\Bankovnictvi.Domain.csproj" />
+      <ProjectReference Include="..\Bankovnictvi.Infrastructure\Bankovnictvi.Infrastructure.csproj" />
+    </ItemGroup>
+
+</Project>
